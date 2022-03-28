@@ -1,0 +1,1 @@
+Eu sou um bot do Telegram. Hoje em dia eu respondo com mensagens automáticas e coleto informação de data e hora de mensagem
